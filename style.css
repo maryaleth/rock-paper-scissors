@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(26, 26, 26);
+
+}
+
+p {
+    color: white;
+    font-family: Roboto, Arial;
+
+
+}
+
+
+.game-title {
+    font-size: 80px;
+}
+
+.move-icon {
+    height: 300px;
+    
+}
+
+.move-button {
+    background-color: transparent;
+    border: 1px solid white;
+    margin-right: 30px;
+    
+}
+
+.move-button:hover {
+    opacity: 0.8;
+}
+
+
+.result-style {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.reset-button {
+    margin-top: 15px;
+    height: 50px;
+    width: 150px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.move-pick {
+    height: 50px;
+}
+
+.moves-style {
+    font-size: 20px;
+}
